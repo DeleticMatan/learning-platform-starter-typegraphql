@@ -1,0 +1,15 @@
+{
+  "name": "default",
+  "type": "postgres",
+  "host": "ec2-54-246-92-116.eu-west-1.compute.amazonaws.com",
+  "port": 5432,
+  "username": "wjfffdqajpuinw",
+  "password": "8abd173ab74e2f3163bb1b2985551fe86fad6bab2fb589b66c313b894732e663",
+  "database": "d9aot8ktlevqug",
+  "synchronize": true,
+  "logging": true,
+  "entities": ["dist/entity/*.*"],
+  "extra": {
+    "ssl": true
+  }
+}
