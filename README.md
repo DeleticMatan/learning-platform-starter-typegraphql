@@ -1,1 +1,1 @@
-# learning-platform-BE
+# learning-platform-starter-typegraphql
